@@ -1,0 +1,4 @@
+name: Hub54Auth
+version: 1.3.2
+main: net.pluresque.hub54auth.Hub54AuthPlugin
+api-version: '26.3'

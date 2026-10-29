@@ -1,0 +1,3 @@
+database-path: /botdata/minecraft_bot.sqlite3
+maximum-password-attempts: 5
+session-duration-days: 30
